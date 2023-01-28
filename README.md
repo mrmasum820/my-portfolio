@@ -1,5 +1,5 @@
-<h2 align="left">Hi there🖐️! I am MD Mahbubur Rahman✌️</h2>
-<h3 align="left">A passionate Full stack developer</h3>
+### Hi there🖐️! I am MD Mahbubur Rahman✌️
+## A passionate Full stack developer
 
 _**LATEST UPDATE:**_ Learning MERN Stack(advance)
 
