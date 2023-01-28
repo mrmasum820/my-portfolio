@@ -173,7 +173,6 @@ const data = [
 
 const Portfolio = () => {
 
-
   const [visible, setVisible] = useState(2);
 
   const showLoadMore = () => {
