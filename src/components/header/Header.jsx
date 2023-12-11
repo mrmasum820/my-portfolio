@@ -1,13 +1,12 @@
-import React from 'react'
-import './header.css'
-import CTA from './CTA'
-import HeaderScocial from './HeaderScocial'
-import ME from '../../assets/images/me.jpg'
+import React from "react";
+import "./header.css";
+import CTA from "./CTA";
+import HeaderScocial from "./HeaderScocial";
+import ME from "../../assets/images/me.jpg";
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 
 const header = () => {
-
   const particlesInit = async (main) => {
     console.log(main);
 
@@ -23,7 +22,6 @@ const header = () => {
 
   return (
     <section>
-
       <Particles
         id="tsparticles"
         init={particlesInit}
@@ -101,7 +99,9 @@ const header = () => {
         <div className="container header__container">
           <h3>Hello I'am</h3>
           <h1>MD Mahbubur Rahman</h1>
-          <h4 className="text-light">Full Stack Developer</h4>
+          <h4 className="text-light">
+            Full Stack Web and Mobile App Developer
+          </h4>
           <HeaderScocial />
           <CTA />
 
@@ -109,14 +109,13 @@ const header = () => {
             <img src={ME} alt="me" />
           </div>
 
-          <a href="#contact" className='scroll__down'>Scroll Down</a>
-
+          <a href="#contact" className="scroll__down">
+            Scroll Down
+          </a>
         </div>
       </header>
-
     </section>
+  );
+};
 
-  )
-}
-
-export default header
+export default header;
