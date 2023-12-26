@@ -13,6 +13,8 @@ import IMG15 from "../../assets/images/portfolio/15.png";
 import IMG16 from "../../assets/images/portfolio/16.png";
 import IMG17 from "../../assets/images/portfolio/17.png";
 import IMG18 from "../../assets/images/portfolio/18.png";
+import IMG19 from "../../assets/images/portfolio/19.png";
+import IMG20 from "../../assets/images/portfolio/20.png";
 
 const data = [
   {
@@ -50,10 +52,10 @@ const data = [
   {
     id: 11,
     image: IMG11,
-    title: "hive ive",
+    title: "4studiocorner",
     gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
-    demo: "https://hive-ive.com",
+    demo: "https://4corners.studio/",
   },
   {
     id: 12,
@@ -66,7 +68,7 @@ const data = [
   {
     id: 13,
     image: IMG13,
-    title: "katieaustin",
+    title: "catieaustin",
     gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
     demo: "https://katieaustin.tv",
@@ -74,44 +76,59 @@ const data = [
   {
     id: 14,
     image: IMG14,
-    title: "textforum",
+    title: "bellastrada",
     gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
-    demo: "https://textforum.ch",
+    demo: "https://bellastrada.shop/",
   },
   {
     id: 15,
     image: IMG15,
-    title: "zapfacil",
-    gitStatus: "Git Link Unavailable",
+    title: "byenbeni baby",
+    gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
-    demo: "https://zapfacil.com",
+    demo: "https://byenvenibaby.com/",
   },
   {
     id: 16,
     image: IMG16,
-    title: "fxagora",
-    gitStatus: "Git Link Unavailable",
+    title: "cepres university",
+    gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
-    demo: "https://fxagora.onlineaprender.com",
+    demo: "https://ciu.edu.lr/",
   },
-
   {
     id: 17,
     image: IMG17,
-    title: "onionlayers",
+    title: "thecofounder",
     gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
-    demo: "https://onionlayers.ca",
+    demo: "https://thecofounder.co/",
   },
-
   {
     id: 18,
     image: IMG18,
-    title: "trustbuildwindows",
+    title: "trustbuild",
     gitStatus: "Github Link Unavailable",
     github: "JavaScript:void(0)",
     demo: "https://trustbuildwindows.com",
+  },
+  {
+    id: 19,
+    image: IMG19,
+    title: "visicapital",
+    gitStatus: "Github Link Unavailable",
+    github: "JavaScript:void(0)",
+    demo: "https://visicapital.co.id/",
+  },
+
+  {
+    id: 20,
+    image: IMG20,
+    title: "west&associates",
+    gitStatus: "Github Link Unavailable",
+    github: "JavaScript:void(0)",
+    demo: "https://westpatentlaw.com/",
   },
 ];
 
